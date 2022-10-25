@@ -1,6 +1,8 @@
 {
   "name": "ShopaHolic",
   "version": "1.0.0",
+  "engines" :{
+    "node":"16.14.2"},
   "description": "Ecommerce website",
   "main": "index.js",
   "scripts": {
